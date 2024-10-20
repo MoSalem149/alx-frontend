@@ -42,3 +42,7 @@
 ![JSON](https://img.shields.io/badge/≡-JSON-000000?logo=JSON&style=flat-square&labelColor=282828)
 
 ---
+
+## Author
+
+- **Mohamed Salem** - [MoSalem149](https://github.com/MoSalem149)
